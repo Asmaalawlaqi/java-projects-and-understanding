@@ -17,6 +17,5 @@ its never 5
 so we set it private to  have control 
 
 
-![Uploading Screenshot 2026-01-30 at 12.18.06 AM.png…]()
 
-
+<img width="266" height="234" alt="blobid0" src="https://github.com/user-attachments/assets/36c585e1-a6fd-4825-a99c-c291bd856422" />
